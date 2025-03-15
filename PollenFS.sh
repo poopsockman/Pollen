@@ -66,12 +66,6 @@ echo '{
   "PhoneHubAllowed": "true",
   "LacrosAvailability": "user_choice",
   "WallpaperImage": null,
-  "ArcPolicy": {
-    "playStoreMode": "ENABLED",
-    "installType": "FORCE_INSTALLED",
-    "playEmmApiInstallDisabled": false,
-    "dpsInteractionsDisabled": false
-  },
   "DnsOverHttpsMode": "automatic",
   "BrowserLabsEnabled": "true",
   "ChromeOsReleaseChannelDelegated": "true",
