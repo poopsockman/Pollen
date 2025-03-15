@@ -69,7 +69,6 @@ echo '{
   "WallpaperImage": null,
   "ArcPolicy": {
     "playStoreMode": "ENABLED",
-    "installType": "FORCE_INSTALLED",
     "playEmmApiInstallDisabled": false,
     "dpsInteractionsDisabled": false
   },
